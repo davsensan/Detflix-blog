@@ -2,7 +2,7 @@
 title: Detflix
 email: davsensan@gmail.com
 description: Blog inspirado en la vista de Netflix
-baseurl: "/detflix" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://davsensan.redirectme.net" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
