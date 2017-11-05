@@ -14,6 +14,6 @@ permalink: /contact/message-sent/
 
 <div class="container">
   <img src="/assets/img/message.gif" width="540" alt="Message sent!">
-  <p><strong>Message sent!</strong></p>
-  <p>Thank you for sending me a message. I'm going to answer ASAP.</p>
+  <p><strong>¡Mensaje Enviado!</strong></p>
+  <p>Gracias por enviarme un mensaje! Responderé lo antes posible <svg class="love"><use xlink:href="#icon-heart"></p>
 </div>
