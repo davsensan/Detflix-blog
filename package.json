@@ -1,29 +1,25 @@
 {
-  "name": "thiagorossener.github.io",
+  "name": "Detflix-blog",
   "version": "1.0.0",
-  "description": "Blog pessoal de Thiago Rossener.",
+  "description": "Blog personal de David Señas.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thiagorossener/thiagorossener.github.io.git"
+    "url": "git+https://github.com/davsensan.git"
   },
   "keywords": [
-    "jekyll",
+    "detflix",
     "blog",
     "css",
     "js",
     "gulp",
     "stylus"
   ],
-  "author": "Thiago Rossener",
+  "author": "David Señas",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/thiagorossener/thiagorossener.github.io/issues"
-  },
-  "homepage": "https://github.com/thiagorossener/thiagorossener.github.io#readme",
   "devDependencies": {
     "autoprefixer-stylus": "^0.14.0",
     "browser-sync": "^2.18.13",

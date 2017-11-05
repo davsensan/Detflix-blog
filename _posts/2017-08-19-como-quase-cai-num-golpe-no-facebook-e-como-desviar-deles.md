@@ -1,137 +1,69 @@
 ---
 layout: post
-title: "Como quase cai num golpe no Facebook e como desviar deles"
-date: 2017-09-10 12:26:40
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_399,w_760/v1503153729/golpe_ghb84o.jpg'
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'life'
+title: "Trabajo de Fin de Grado"
+date: 2017-11-05 23:00
+image: 'https://cdn-images-1.medium.com/max/512/1*qUlxDdY3T-rDtJ4LhLGkEg.png'
+description: Desarrollo de un portal para gestión de licencias de RedBorder utilizando React y NodeJS.
+category: 'Universidad'
 tags:
-- life
-- tips
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- Universidad
+- React
+- NodeJS
+- Desarrollo Web
+twitter_text: Twitter Text
+introduction: Durante el año 2017 realicé mi trabajo de fin de carrera que puso fin a mi etapa educativa y dando paso a mi etapa laboral...
 ---
+## Etapa Unviversitaria
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Entre 2013 y 2017 realicé mis estudios del grado en ingenieria de las tecnologías de las telecominucaciones en la universidad de Sevilla.
+Durante estos años aprendí mucho, no solo de conocimientos técnicos, sino de un sinfín de cosas fundamentales en el día a dia como puede ser la convivencia en un piso compartido, aprender a vivir solo sin la ayuda incondicional de tus padres...
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Pero sin duda, la etapa más dura, pero a la vez la que más me ha gustado, de esta etapa ha sido el desarrollo de mi Trabajo de Fin de Grado. 
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+## Comienzo del TFG
 
-## Inline HTML elements
+Mi TFG comenzó un 14 de Febrero de 2017 cuando comencé a realizar mis prácticas de empresa en ENEO Tecnología. Ese día estaba atacado de nervios por ver cómo sería la oficina, cómo serían los compañeros y qué tal se me daría la nueva etapa laboral.
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+Durante las primeras semanas estuve realizando una toma de contacto tanto con los compañeros de trabajo como con lo que a partir de ahora serían mis herramientas de trabajo.
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+## Decisión del tema del TFG
 
-Most of these elements are styled by browsers with few modifications on our part.
+Tras estas semanas de toma de contacto empezamos a realizar reuniones para ver sobre qué sería mi Trabajo de Fin de Grado. Recuerdo que en una de esas reuniones se comentó que actualmente, el software RedBorder tenía una licencia gratuita de un mes y pasado ese mes, los clientes tenían que contactar con la empresa para adquirir una nueva licencia y para ello tenían que solicitarla por teléfono o por email y una vez confirmado el pago se le envíaria al cliente dicha licencia.
+Esta forma de gestionar las licencias me pareció bastante arcacica y yo propuse la realización de un portal web para el control y gestión de todas las licencias de una forma más sencilla. Es así como nació mi proyecto de fin de carrera.
 
-# Heading 1
+## Comienzo del TFG
 
-## Heading 2
+Pero una vez decido sobre qué iba a ser vino la pregunta más importante ¿Cómo lo voy a hacer y qué tecnologías utilizo? Es aquí donde me decidí por utilizar React y NodeJs ya que no conocía ninguna de estas dos tecnologías y vi una buena oportunidad para conocerlas, es así como empezó todo.
 
-### Heading 3
+A partir de ese momento comencé a trabajar en mi TFG totalmente en solitario todas las mañanas en la oficina de la empresa y todas las tardes desde casa, echando alrededor de 14 horas diaria pero que se me pasaban volando porque estaba disfrutando, viendo que estaba aprendiendo cosas nuevas y que aquello poco a poco iba fluyendo.
 
-#### Heading 4
+Mi forma de trabajo allí se adaptó un poco a la metodología ágil 'Scrum', digo que se adaptó un poco porque estuve yo de solo desarrollando el TFG de forma completa y semanalmente me reunía con el equipo para decirle qué llevaba hecho y marcar una serie de PBIs para la siguiente semana de desarrollo. Es así como conseguir darme la caña suficiente para sacar el TFG adelante antes de la primera convocatoria.
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+A finales de Mayo ya estaba el portal terminado completamente y totalmente funcionando, pero ahora quedaba lo más importante: La memoria del TFG.
 
-## Code
+## Memoria del TFG
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+Durante el mes de Junio estuve realizando la memoria del TFG pero para ello antes había visto como 200 TFGs de antiguos alumnos para ver cómo hacerlo y cómo desarrollarlo. Finalmente opté por realizarlo de una forma que se adaptase más a mi forma de pensar.
 
-```js
-// Example can be run directly in your JavaScript console
+Para realizar la memoria decidí en primer lugar marcar todos los requisitos del portal, tras esto ver cómo se han implementado todos esos requisitos, cómo se han probado, cómo se ha <em>dockerizado</em> la aplicación y como se ha desplegado en un servidor. Finalmente decidí poner una serie de capturas del portal funcionando. 
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+## Defensa del TFG
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+Una vez terminada toda la memoria, el día 18 de Julio de 2017 llegó el gran dia, el día de la defensa de Trabajo de Fin de Grado. 
+Ese día yo estaba más tranquilo de lo que esperaba y todo era porque estaba muy convencido de que había trabajado mucho en mi trabajo de fin de carrera y estaba seguro de que me iba a salir bien. 
+¡Y así fue, conseguí salir de allí con la enhorabuena de los profesores y Matrícula de Honor!
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+### Agradecimientos
 
-## Lists
+Para concluir, me gustaría dar las gracias a a mi familia por el esfuerzo tan grande que ha realizado conmigo, no solo durante el desarrollo de este proyecto, ni durante mi periodo académico, sino durante toda mi vida, ya que sin ellos no habría llegado a ser nada de lo que hoy soy, sin ellos nunca hubiera llegado hasta aquí, gracias a ellos hoy soy lo que soy.
+También me gustaría darle las gracias a Claudia, mi pareja, por haber estado ahí siempre, haberme ayudado en mis días de agobio y desesperación cuando algo no salía y haberme hecho ver siempre que yo podía. 
+<strong>¡GRACIAS A TODOS!</strong>
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+### Documentación
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
------
-
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
-
-
-
-
-
+Si estaís intersado en el código de mi trabajo de fin de carrera o en la memoría del mismo podeís verlo en los siguientes links:
+* <a href="https://github.com/davsensan/licensing_management">Código</a>
+*  <a href="https://www.dropbox.com/s/eswjs0d6hzqfj5b/Memoria%20TFG%20Final.pdf?dl=0">Memoria</a>
 
 
 

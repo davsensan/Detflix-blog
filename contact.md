@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-description: Let's talk.
+description: Página de contacto.
 permalink: /contact/
 ---
 
