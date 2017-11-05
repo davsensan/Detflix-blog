@@ -9,7 +9,7 @@ google_analytics: "UA-XXXXXXXX-X"
 # User Settings
 username: Blog DavSenSan
 user_description: Gradudado en Ingeniería de Telecomunicaciones.
-disqus_username: davidseas
+disqus_username: http-davsensan-redirectme-net
 
 # Social Media
 # Remove the item if you don't need it
@@ -31,11 +31,11 @@ gems:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: Inicio
     url: /
-  - title: About
+  - title: Acerca de mí
     url: /about/
-  - title: Contact
+  - title: Contactar
     url: /contact/
 
 # Exclude my node related stuff
