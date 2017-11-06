@@ -52,7 +52,7 @@ más que los datos de la gráfica (un JSON, por ejemplo), siendo el navegador de
 actualizase la página para mostrar la nueva gráfica, ahorrando así trabajo al servidor, al no
 tener que formar la página HTML completa, y tráfico, al ser peticiones mucho menos pesadas.
 
-![placeholder](assets/img/SPA.png "Medium example image")
+![SPA](/assets/img/SPA.png "Medium example image")
 
 # MULTI-PAGE APPLICATION
 Por otro lado, en una aplicación web que utilice el modelo MPA, no solo existirá una página
@@ -69,7 +69,7 @@ la primera petición, teniendo así que “cargar” partes que son comunes a to
 caso del menú con las opciones.
 
 # VENTAJAS DEL MODELO SPA
-La principal ventaja del enfoque single-page application será por lo tanto la <strong>rapidez</stong> de la interacción
+La principal ventaja del enfoque single-page application será por lo tanto la <strong>rapidez</strong> de la interacción
 cliente-servidor, ya que al realizarse la comunicación mediante peticiones pequeñas
 en cada interacción del cliente, el mensaje de respuesta será menor, procesándose y enviándose
 de una forma más rápida. Esto mejorará, consecuentemente, la experiencia del usuario
