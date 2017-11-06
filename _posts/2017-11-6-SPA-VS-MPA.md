@@ -118,7 +118,7 @@ sitios webs que utilizan esta tecnología.
 
 # INCONVENIENTES DEL MODELO MPA
 El principal inconveniente de desarrollar páginas webs siguiendo el enfoque MPA se basa en
-que el usuario tendrá una </strong>peor experiencia a la hora de navegar</strong> por el sitio web ya que las
+que el usuario tendrá una <strong>peor experiencia a la hora de navegar</strong> por el sitio web ya que las
 interacciones serán mucho mas lentas y pesadas.
 Esto se debe a que en cada petición el servidor ha de tratar la acción, generar la nueva web
 completa y enviarla de vuelta al cliente, siendo esto mucho mas pesado (Mayor tiempo de
