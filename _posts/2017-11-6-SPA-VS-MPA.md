@@ -176,6 +176,7 @@ Entonces se recomienda usar SPA ya que las recargas de los datos son más rápid
 En este caso si realizamos la web con el enfoque SPA podremos reutilizar la API del servidor
 para desarrollar las peticiones de la aplicación móvil al mismo servidor.
 * Quiero realizar mi propia página web, no conozco ninguna tecnología, ¿Cuál utilizo?
-Si es tu primera página web
+Si es tu primera página web el enfoque SPA es un enfoque más fácil y con un tiempo de
+desarrollo menor.
 
 
