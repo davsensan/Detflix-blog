@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¿Desarrollo web SPA o MPA"
+title: "¿Desarrollo web SPA o MPA?"
 date: 2017-11-06 7:16:59
 image: 'https://neoteric.eu/wp-content/uploads/2016/12/spa-vs.-mpa.png'
 description: ¿Desarrollar aplicaciones webs siguiendo un patrón SPA o MPA?
