@@ -3,7 +3,7 @@ title: Detflix
 email: davsensan@gmail.com
 description: Blog acerca de las nuevas tecnologías de desarrollo y/o telecomunicaciones
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://davsensan.redirectme.net" # the base hostname & protocol for your site
+url: "http://davsensan.redirectme.net" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
