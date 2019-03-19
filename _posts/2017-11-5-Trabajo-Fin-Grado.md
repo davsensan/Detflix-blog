@@ -13,7 +13,7 @@ tags:
 twitter_text: Twitter Text
 introduction: Durante el año 2017 realicé mi trabajo de fin de carrera que puso fin a mi etapa educativa y dando paso a mi etapa laboral...
 ---
-## Etapa Unviversitaria
+## Etapa Universitaria
 
 Entre 2013 y 2017 realicé mis estudios del grado en ingenieria de las tecnologías de las telecominucaciones en la universidad de Sevilla.
 Durante estos años aprendí mucho, no solo de conocimientos técnicos, sino de un sinfín de cosas fundamentales en el día a dia como puede ser la convivencia en un piso compartido, aprender a vivir solo sin la ayuda incondicional de tus padres...
@@ -55,8 +55,7 @@ Ese día yo estaba más tranquilo de lo que esperaba y todo era porque estaba mu
 
 ### Agradecimientos
 
-Para concluir, me gustaría dar las gracias a a mi familia por el esfuerzo tan grande que ha realizado conmigo, no solo durante el desarrollo de este proyecto, ni durante mi periodo académico, sino durante toda mi vida, ya que sin ellos no habría llegado a ser nada de lo que hoy soy, sin ellos nunca hubiera llegado hasta aquí, gracias a ellos hoy soy lo que soy.
-También me gustaría darle las gracias a Claudia, mi pareja, por haber estado ahí siempre, haberme ayudado en mis días de agobio y desesperación cuando algo no salía y haberme hecho ver siempre que yo podía. 
+Para concluir, me gustaría dar las gracias a a mi familia por el esfuerzo tan grande que ha realizado conmigo, no solo durante el desarrollo de este proyecto, ni durante mi periodo académico, sino durante toda mi vida, ya que sin ellos no habría llegado a ser nada de lo que hoy soy, sin ellos nunca hubiera llegado hasta aquí, gracias a ellos hoy soy lo que soy. 
 <strong>¡GRACIAS A TODOS!</strong>
 
 ### Documentación
